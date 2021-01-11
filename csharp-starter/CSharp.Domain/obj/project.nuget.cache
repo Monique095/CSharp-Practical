@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKjFzDb0qvd2MF9uV+nzF+YhdBWOj+UNfBXO43l8UWVToFOC6FjRJAtM8CU3KnEHX8EwWTteHyXd7Eseyk8x+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\C# Practical 1 & 2\\Practical 1\\csharp-starter\\CSharp.Domain\\CSharp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

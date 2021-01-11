@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAHMpWN4cJpznVsszWhOHxPc0o2MIhQ4UrXfMVSLpTOVNWektI5AEJDAb9/gFiJsqUjwwNapAsnASxxF2Y7Jgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\C# Practical 1 & 2\\Practical 1\\csharp-starter\\FullStack.Data\\FullStack.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
