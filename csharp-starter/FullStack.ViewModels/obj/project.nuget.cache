@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRhaaWTqlDkoXIpGWG4ibuva2JgihqUFSRWO27mHEZQdpMhY4g+SoKfbtkHuKCreSTGNt7e/8Rc1azHUUrhblA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\CSharp_Practical_2\\csharp-starter\\FullStack.ViewModels\\FullStack.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

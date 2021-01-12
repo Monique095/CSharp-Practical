@@ -1,0 +1,34 @@
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.deps.json
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.deps.json
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\CSharp.Domain\obj\Debug\netcoreapp3.1\CSharp.Domain.pdb

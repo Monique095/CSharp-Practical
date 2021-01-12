@@ -1,0 +1,36 @@
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.deps.json
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfo.cs
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 1\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.deps.json
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\bin\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.AssemblyInfo.cs
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.dll
+C:\Users\USER\Desktop\CSharp_Practical_2\csharp-starter\FullStack.ViewModels\obj\Debug\netcoreapp3.1\FullStack.ViewModels.pdb
