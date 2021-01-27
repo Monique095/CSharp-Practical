@@ -1,0 +1,81 @@
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.deps.json
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Regte een\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.genruntimeconfig.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 3\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.genruntimeconfig.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.genruntimeconfig.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.deps.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.dev.json
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\C# Practical 1 & 2\Practical 4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.genruntimeconfig.cache
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.deps.json
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.json
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.dll
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\bin\Debug\netcoreapp3.1\CSharp.Domain.pdb
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.dll
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.pdb
+C:\Users\USER\Desktop\Practical-4\csharp-starter-practical-4\FullStack.Data\obj\Debug\netcoreapp3.1\FullStack.Data.genruntimeconfig.cache
